@@ -1,4 +1,4 @@
-<img src="![Brown Simple Fashion Banner Landscape](https://github.com/user-attachments/assets/4433646d-1a48-47c8-a049-c390edb2597a)
+<img src="https://github.com/user-attachments/assets/4433646d-1a48-47c8-a049-c390edb2597a
 "/>
  <hr></hr>
 <p align="center">
