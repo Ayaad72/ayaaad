@@ -2,13 +2,13 @@
  <hr></hr>
 <p align="center">
   <samp>
-    Hi, I'm Saad! 👋 <br>
+    Hi, I'm Ayaad! 👋 <br>
     🔥 Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
-    :email:	saadpasta70@gmail.com <br>
-    :art: Portfolio: https://saadpasta.github.io <br>
-                Twitter: https://twitter.com/saadpastadev?lang=en<br>
-  :briefcase: Building https://www.refactornow.dev/ - Learn the Art of Refactoring <br>
+    :sparkles: Favorite Tech: JavaScript, React/NextJs Typescript ... <br>
+    :email:	ayaadaavi@gmail.com <br>
+    :art: Portfolio: https://cdefiverceaap <br>
+                Twitter: https://twitter.com/ayaad?lang=en<br>
+  :briefcase: Building https://gupshup/ - Learn the Art of Refactoring <br>
 
   </samp>
 </p>
